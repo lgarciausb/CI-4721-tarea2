@@ -1,5 +1,7 @@
 # Operator grammar parser generator
 
+Requires `rustworkx`
+
 To make debugging easier a few extra commands were implemented
 
 * SHOW
